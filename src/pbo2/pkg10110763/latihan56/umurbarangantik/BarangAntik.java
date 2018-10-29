@@ -5,9 +5,11 @@
  */
 package pbo2.pkg10110763.latihan56.umurbarangantik;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Kelas: IF-2
+Nim  : 10117063
+Deskripsi Program : Menampilkan umur barang antik
  */
 public class BarangAntik {
     int umur;
